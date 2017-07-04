@@ -1,2 +1,2 @@
 # JavaScript Bank
-Reusable Javascript code repo
+Reusable Javascript code repository
